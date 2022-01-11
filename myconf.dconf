@@ -1,0 +1,470 @@
+[apps/update-manager]
+first-run=false
+launch-count=24
+launch-time=int64 1640732444
+show-details=true
+window-height=400
+window-width=645
+
+[ca/desrt/dconf-editor]
+saved-pathbar-path='/org/gnome/shell/extensions/dash-to-dock/dock-position'
+saved-view='/org/gnome/shell/extensions/dash-to-dock/dock-position'
+window-height=500
+window-is-maximized=true
+window-width=540
+
+[com/github/maoschanz/drawing]
+last-active-tool='rect_select'
+last-version='0.8.5'
+maximized=true
+
+[com/github/maoschanz/drawing/tools-options]
+last-active-shape='polygon'
+last-delete-replace='alpha'
+last-font-name='Sans'
+last-left-rgba=['0.8', '0.0', '0.0', '1.0']
+last-right-rgba=['1.0', '1.0', '0.0', '0.5']
+last-shape-filling='empty'
+last-size=5
+last-text-background='outline'
+use-antialiasing=true
+
+[com/ubuntu/update-notifier]
+release-check-time=uint32 1640261354
+
+[org/blueman/general]
+plugin-list=['!KillSwitch', '!PowerManager', '!NMPANSupport', 'DhcpClient', '!NMDUNSupport', 'PPPSupport']
+services-last-item=1
+window-properties=[1386, 752, 490, 170]
+
+[org/blueman/network]
+nap-enable=false
+
+[org/blueman/plugins/powermanager]
+auto-power-on=@mb true
+
+[org/blueman/plugins/recentconns]
+recent-connections=[{'adapter': '0C:CF:89:60:6F:5C', 'address': '94:DB:56:18:AF:8C', 'alias': 'WH-1000XM3', 'icon': 'audio-card', 'name': 'Auto connect profiles', 'uuid': '00000000-0000-0000-0000-000000000000', 'time': '1627316700.9937885', 'device': '', 'mitem': ''}]
+
+[org/gnome/Totem]
+active-plugins=['save-file', 'screenshot', 'screensaver', 'vimeo', 'media-player-keys', 'autoload-subtitles', 'movie-properties', 'skipto', 'variable-rate', 'apple-trailers', 'open-directory', 'recent', 'rotation']
+subtitle-encoding='UTF-8'
+
+[org/gnome/baobab/ui]
+window-size=(960, 600)
+window-state=43908
+
+[org/gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='basic'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+window-position=(283, 294)
+word-size=64
+
+[org/gnome/control-center]
+last-panel='display'
+
+[org/gnome/deja-dup]
+backend='google'
+prompt-check='2021-12-03T12:33:16+00'
+
+[org/gnome/deja-dup/file]
+migrated=true
+
+[org/gnome/deja-dup/gcs]
+folder='felipe'
+
+[org/gnome/deja-dup/google]
+folder='felipe'
+
+[org/gnome/deja-dup/local]
+folder='felipe'
+
+[org/gnome/deja-dup/openstack]
+container='felipe'
+
+[org/gnome/deja-dup/rackspace]
+container='felipe'
+
+[org/gnome/deja-dup/remote]
+folder='felipe'
+
+[org/gnome/deja-dup/s3]
+folder='felipe'
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST']
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gucharmap.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.Screenshot.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'simple-scan.desktop', 'vinagre.desktop', 'yelp.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+show-desktop-icons=false
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'latam')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Yaru-dark'
+toolkit-accessibility=false
+
+[org/gnome/desktop/notifications]
+application-children=['update-manager', 'org-gnome-nautilus', 'snap-store-ubuntu-software-local-file', 'apport-gtk', 'nemo', 'org-gnome-gedit', 'org-gnome-fileroller', 'gnome-control-center', 'smplayer', 'google-chrome', 'org-gnome-totem', 'spotify-spotify', 'org-gnome-terminal', 'blueman-manager', 'org-gnome-eog', 'opera', 'blueman-adapters', 'transmission-gtk', 'org-gnome-dejadup', 'libreoffice-calc', 'pycharm-community-pycharm-community', 'virtualbox', 'inkscape', 'gimp', 'geany', 'org-gnome-baobab', 'gnome-printers-panel', 'rhythmbox', 'mpv']
+
+[org/gnome/desktop/notifications/application/apport-gtk]
+application-id='apport-gtk.desktop'
+
+[org/gnome/desktop/notifications/application/blueman-adapters]
+application-id='blueman-adapters.desktop'
+
+[org/gnome/desktop/notifications/application/blueman-manager]
+application-id='blueman-manager.desktop'
+
+[org/gnome/desktop/notifications/application/geany]
+application-id='geany.desktop'
+
+[org/gnome/desktop/notifications/application/gimp]
+application-id='gimp.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-control-center]
+application-id='gnome-control-center.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-printers-panel]
+application-id='gnome-printers-panel.desktop'
+
+[org/gnome/desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/inkscape]
+application-id='inkscape.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-calc]
+application-id='libreoffice-calc.desktop'
+
+[org/gnome/desktop/notifications/application/mpv]
+application-id='mpv.desktop'
+
+[org/gnome/desktop/notifications/application/nemo]
+application-id='nemo.desktop'
+
+[org/gnome/desktop/notifications/application/opera]
+application-id='opera.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-baobab]
+application-id='org.gnome.baobab.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-dejadup]
+application-id='org.gnome.DejaDup.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-eog]
+application-id='org.gnome.eog.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-fileroller]
+application-id='org.gnome.FileRoller.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-gedit]
+application-id='org.gnome.gedit.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-terminal]
+application-id='org.gnome.Terminal.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-totem]
+application-id='org.gnome.Totem.desktop'
+
+[org/gnome/desktop/notifications/application/pycharm-community-pycharm-community]
+application-id='pycharm-community_pycharm-community.desktop'
+
+[org/gnome/desktop/notifications/application/rhythmbox]
+application-id='rhythmbox.desktop'
+
+[org/gnome/desktop/notifications/application/smplayer]
+application-id='smplayer.desktop'
+
+[org/gnome/desktop/notifications/application/snap-store-ubuntu-software-local-file]
+application-id='snap-store_ubuntu-software-local-file.desktop'
+
+[org/gnome/desktop/notifications/application/spotify-spotify]
+application-id='spotify_spotify.desktop'
+
+[org/gnome/desktop/notifications/application/transmission-gtk]
+application-id='transmission-gtk.desktop'
+
+[org/gnome/desktop/notifications/application/update-manager]
+application-id='update-manager.desktop'
+
+[org/gnome/desktop/notifications/application/virtualbox]
+application-id='virtualbox.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/mouse]
+natural-scroll=false
+
+[org/gnome/desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+disable-microphone=false
+report-technical-problems=true
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/sound]
+allow-volume-above-100-percent=false
+
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[org/gnome/evince/default]
+window-ratio=(1.0112548294977322, 0.71311578682121701)
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/file-roller/dialogs/extract]
+recreate-folders=true
+skip-newer=false
+
+[org/gnome/file-roller/dialogs/new]
+default-extension='.zip'
+encrypt-header=false
+volume-size=0
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=718
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=743
+window-width=1386
+
+[org/gnome/gedit/plugins]
+active-plugins=['docinfo', 'quickhighlight', 'bracketcompletion', 'snippets', 'codecomment', 'spell', 'filebrowser', 'time', 'modelines']
+
+[org/gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///mnt/DATA/OpenFOAM/estanque_pulps/0'
+
+[org/gnome/gedit/preferences/editor]
+auto-save-interval=uint32 5
+insert-spaces=false
+scheme='solarized-dark'
+tabs-size=uint32 4
+use-default-font=false
+wrap-last-split-mode='word'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/history-entry]
+replace-with-entry=['muestreo', 'chsnW_P', 'rfPart', 'fPart', 'restPart', 'rho_', '0.105']
+search-for-entry=['sample', 'z_hi', 'z_lo', 'y_hi', 'y_lo', 'x_hi', 'x_lo', 'chsn_w_p', 'RfPart']
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(960, 1006)
+state=87168
+
+[org/gnome/gnome-system-monitor]
+current-tab='resources'
+maximized=false
+show-dependencies=false
+show-whose-processes='user'
+window-state=(1440, 763, 407, 60)
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gnome/gnome-system-monitor/proctree]
+col-0-visible=true
+col-0-width=768
+columns-order=[0, 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+sort-col=15
+sort-order=0
+
+[org/gnome/mutter]
+experimental-features=@as []
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='list-view'
+search-filter-time-type='last_modified'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=true
+
+[org/gnome/rhythmbox]
+position=(2307, 194)
+size=(1225, 754)
+
+[org/gnome/rhythmbox/library]
+layout-filename='%tN - %tt'
+layout-path='%aa/%at'
+
+[org/gnome/rhythmbox/library/encoding]
+media-type='audio/x-vorbis'
+
+[org/gnome/rhythmbox/library/source]
+paned-position=367
+show-browser=true
+sorting=('Artist', true)
+
+[org/gnome/rhythmbox/player]
+play-order='linear-loop'
+volume=1.0
+
+[org/gnome/rhythmbox/plugins]
+active-plugins=['generic-player', 'iradio', 'mpris', 'mtpdevice', 'android', 'dbus-media-server', 'daap', 'notification', 'audiocd', 'rb', 'alternative-toolbar', 'audioscrobbler', 'power-manager', 'artsearch', 'ipod', 'mmkeys']
+seen-plugins=['mpris', 'mtpdevice', 'dbus-media-server', 'pythonconsole', 'fmradio', 'daap', 'notification', 'rb', 'alternative-toolbar', 'listenbrainz', 'lyrics', 'soundcloud', 'webremote', 'audioscrobbler', 'replaygain', 'grilo', 'im-status', 'magnatune', 'artsearch', 'ipod', 'rblirc']
+
+[org/gnome/rhythmbox/plugins/alternative_toolbar]
+display-type=1
+show-source-toolbar=false
+
+[org/gnome/rhythmbox/plugins/audioscrobbler/Last.fm]
+scrobbling-enabled=true
+
+[org/gnome/rhythmbox/plugins/audioscrobbler/Libre.fm]
+scrobbling-enabled=true
+
+[org/gnome/rhythmbox/plugins/iradio]
+initial-stations-loaded=true
+
+[org/gnome/rhythmbox/plugins/iradio/source]
+show-browser=true
+
+[org/gnome/rhythmbox/podcast]
+download-location='file:///home/felipe/Music'
+
+[org/gnome/rhythmbox/podcast/source]
+show-browser=true
+
+[org/gnome/rhythmbox/rhythmdb]
+locations=['file:///home/felipe/Music']
+
+[org/gnome/rhythmbox/sources]
+visible-columns=['post-time', 'album', 'artist', 'duration']
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=true
+night-light-schedule-automatic=false
+night-light-schedule-to=19.983333333333334
+night-light-temperature=uint32 3639
+
+[org/gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Primary><Shift>s'
+command='gnome-control-center sound'
+name='sound-control'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding='<Primary><Shift>d'
+command='gnome-control-center display'
+name='displays-control'
+
+[org/gnome/settings-daemon/plugins/power]
+power-button-action='nothing'
+sleep-inactive-ac-timeout=3600
+sleep-inactive-ac-type='nothing'
+
+[org/gnome/settings-daemon/plugins/xsettings]
+hinting='slight'
+
+[org/gnome/shell]
+disabled-extensions=['desktop-icons@csoriano', 'ubuntu-appindicators@ubuntu.com']
+enabled-extensions=['ubuntu-dock@ubuntu.com']
+favorite-apps=['nemo.desktop', 'google-chrome.desktop', 'virtualbox.desktop', 'spotify_spotify.desktop']
+had-bluetooth-devices-setup=true
+
+[org/gnome/shell/extensions/dash-to-dock]
+autohide-in-fullscreen=true
+dash-max-icon-size=16
+dock-fixed=true
+dock-position='LEFT'
+multi-monitor=false
+preferred-monitor=0
+show-mounts=false
+
+[org/gnome/software]
+check-timestamp=int64 1640779875
+online-updates-timestamp=int64 1639484462
+
+[org/gnome/system/location]
+enabled=false
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(2,36,45)'
+foreground-color='rgb(0,255,17)'
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(221,0,255)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+use-theme-colors=false
+
+[org/gtk/settings/color-chooser]
+custom-colors=[(1.0, 1.0, 0.0, 0.5), (0.76078431372549016, 0.92156862745098034, 0.76078431372549016, 1.0), (0.0082444444444444379, 0.14235843621399169, 0.17666666666666667, 1.0), (0.0, 0.16862745098039217, 0.21176470588235294, 1.0), (0.0, 1.0, 0.067567567567567544, 1.0), (0.51372549019607838, 0.58039215686274515, 0.58823529411764708, 1.0), (0.86486486486486491, 0.0, 1.0, 1.0), (0.52549019607843139, 0.023529411764705889, 0.60392156862745094, 1.0)]
+selected-color=(true, 0.80000000000000004, 0.0, 0.0, 1.0)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=170
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+window-position=(379, 27)
+window-size=(1203, 1006)
+
+[org/nemo/desktop]
+show-desktop-icons=false
+
+[org/nemo/preferences]
+default-folder-viewer='list-view'
+executable-text-activation='display'
+show-hidden-files=true
+
+[org/nemo/window-state]
+bookmarks-expanded=true
+geometry='800x550+617+179'
+maximized=false
+my-computer-expanded=true
+network-expanded=false
+sidebar-bookmark-breakpoint=5
+sidebar-width=152
+start-with-sidebar=true
