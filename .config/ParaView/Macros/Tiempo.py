@@ -17,7 +17,7 @@ particulas_ = FindSource('particulas_*')
 annotateTimeFilter1 = AnnotateTimeFilter(Input=particulas_)
 
 # Properties modified on annotateTimeFilter1
-annotateTimeFilter1.Format = 'Tiempo: %.2f [s]'
+annotateTimeFilter1.Format = 'Tiempo: {time:.2f} [s]'
 annotateTimeFilter1.Scale = scale
 annotateTimeFilter1.Shift = scale
 
@@ -27,7 +27,7 @@ renderView1 = GetActiveViewOrCreate('RenderView')
 annotateTimeFilter1Display = Show(annotateTimeFilter1, renderView1)
 
 # Properties modified on annotateTimeFilter1Display
-annotateTimeFilter1Display.WindowLocation = 'UpperRightCorner'
+annotateTimeFilter1Display.WindowLocation = 'Upper Right Corner'
 
 # Properties modified on annotateTimeFilter1Display
 annotateTimeFilter1Display.FontSize = 23

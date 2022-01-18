@@ -27,7 +27,7 @@ vLUT.ApplyPreset('Blue to Red Rainbow', True)
 #Ajustar Leyenda
 vLUTColorBar = GetScalarBar(vLUT, renderView1)
 vLUTColorBar.AutoOrient = 0
-vLUTColorBar.WindowLocation = 'AnyLocation'
+vLUTColorBar.WindowLocation = 'Any Location'
 vLUTColorBar.AutomaticLabelFormat = 0
 vLUTColorBar.TitleColor = [0.0, 0.0, 0.0]
 vLUTColorBar.TitleFontSize = 12

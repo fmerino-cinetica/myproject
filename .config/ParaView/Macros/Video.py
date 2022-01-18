@@ -5,7 +5,6 @@ import os
 name=input('nombre del archivo')
 cwd = os.getcwd()
 path = os.path.join(cwd, 'videos')
-frate=int(input('ingresar framerate'))
 tini=int(input('ingresar frame inicial'))
 tend=int(input('ingresar frame final'))
 
@@ -23,10 +22,9 @@ renderView1 = GetActiveViewOrCreate('RenderView')
 layout1 = GetLayout()
 
 # save screenshot
-SaveAnimation('./videos/'+name+'.avi', renderView1, ImageResolution=[1920, 1080],
+SaveAnimation('./videos/'+name+'.png', renderView1, ImageResolution=[1920, 1080],
     OverrideColorPalette='WhiteBackground',
-    #FontScaling='Do not scale fonts',
-    FrameRate=frate,
+    FontScaling='Do not scale fonts',
     FrameWindow=[tini, tend], 
-    # FFMPEG options
-    Compression=0)
+    # PNG options
+    CompressionLevel='0')
